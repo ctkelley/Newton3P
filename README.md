@@ -26,7 +26,7 @@ To run this notebook you will need to install these packages
 - PyPlot
 - Polyester
 
-When you install these packages, espcially, SIAMFANLEquations you will also install many other packages. If you have not installed them already, that could take a bit of time.
+When you install these packages, especially, SIAMFANLEquations you will also install many other packages. If you have not installed them already, that could take a bit of time.
 
 ## Running the codes
 To run the notebook 
